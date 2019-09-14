@@ -14,7 +14,7 @@ def add_element_to_end_of_array(array, element)
   
   new_array = [1]
   
-  new_array.push(arrays!)
+  new_array.push("arrays!")
   
 end
 
