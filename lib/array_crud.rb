@@ -20,6 +20,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   
+  new_array = [1]
     new_array.unshift("wow")
 
   
